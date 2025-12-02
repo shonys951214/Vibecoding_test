@@ -1,9 +1,10 @@
 {
   "name": "signin",
   "version": "1.0.0",
-  "description": "0. index\r     - GET : /\r     - 안녕하세요 ~서버입니다.\r 1. dogs [crud]",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "start" :"node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
