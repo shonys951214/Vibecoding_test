@@ -62,3 +62,4 @@ yarn.lock
 *.njsproj
 *.sln
 *.sw?
+/generated/prisma
