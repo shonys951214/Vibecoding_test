@@ -63,3 +63,9 @@ yarn.lock
 *.sln
 *.sw?
 /generated/prisma
+
+# Prisma environment variables
+prisma/.env
+
+# Optional: Exclude migrations if not needed in version control
+prisma/migrations/
